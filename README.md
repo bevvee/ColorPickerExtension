@@ -17,11 +17,8 @@ ColorPickerExtension is a browser extension that simplifies the process of selec
 
 **Eyedropper Tool**: Quickly identify and select colors from any element on a webpage using the built-in eyedropper tool.
 
-**Color Formats**: Copy colors in various formats, including Hexadecimal, RGB, and HSL, to seamlessly integrate with your coding preferences.
+**Color Formats**: Copy colors in various formats, including Hexadecimal to seamlessly integrate with your coding preferences.
 
-**Color History**: Keep track of recently selected colors for easy reference and reuse.
-
-**Customization Options**: Personalize the extension to match your preferred color format and interface settings.
 
 ## Installation
 1. Clone the repository or download the latest release.
