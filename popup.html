@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Color Picker Extension</title>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self';">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="color-picker-container">
+    <label for="color-picker">Choose a color:</label>
+    <input type="color" id="color-picker" value="#ff0000">
+    <div id="color-display">
+      <p>Selected Color:</p>
+      <h3 id="hex"></h3>
+    </div>
+    <span id="msgcopy">Click the hex to copy</span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

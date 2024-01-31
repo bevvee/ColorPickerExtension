@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#color-picker-container {
+  text-align: center;
+}
+
+#color-picker {
+  margin: 10px;
+}
+
+#color-display {
+  margin-top: 20px;
+  margin-bottom: 4px;
+  width: 100px;
+  height: 70px;
+  border: 1px solid #ccc;
+}
+#msgcopy{
+  color: gray;
+  font-size: xx-small;
+  text-decoration: solid;
+}
