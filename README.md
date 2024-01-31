@@ -4,7 +4,12 @@ ColorPickerExtension
 <p align='center'> 
 ColorPickerExtension is a browser extension that simplifies the process of selecting and copying colors from web pages. Enhance your web development workflow with an easy-to-use color picker tool directly integrated into your browser.
 <p> 
-
+<p align='center'>
+  <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bevvee/ColorPickerExtension?style=flat">
+</a>&nbsp;&nbsp;
+</p>
+<br />
 ## Features
 
 **Inline Color Picker**: Access a color picker tool directly on any webpage by clicking the extension icon in your browser toolbar.
