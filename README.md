@@ -10,6 +10,7 @@ ColorPickerExtension is a browser extension that simplifies the process of selec
 </a>&nbsp;&nbsp;
 </p>
 <br />
+
 ## Features
 
 **Inline Color Picker**: Access a color picker tool directly on any webpage by clicking the extension icon in your browser toolbar.
