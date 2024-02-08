@@ -9,6 +9,7 @@ ColorPickerExtension is a browser extension that simplifies the process of selec
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bevvee/ColorPickerExtension?style=flat">
 </a>&nbsp;&nbsp;
 </p>
+<p href="https://visitorbadge.io/status?path=https://github.com/bevvee/ColorPickerExtension" align=center><img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/bevvee/ColorPickerExtension&label=%F0%9F%A5%B3VISITORS&labelColor=%23ffff00&countColor=%23263759" /><p>
 <br />
 
 ## Features
